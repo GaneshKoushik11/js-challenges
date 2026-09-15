@@ -1,3 +1,7 @@
+// Title: Find Missing Number
+// Difficulty: Easy
+// Tags: Array, Summation
+
 function findMissingNumber(numbers, n) {
     let expectedSum = n * (n + 1) / 2
     let actualSum = 0
