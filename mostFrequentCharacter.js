@@ -4,7 +4,7 @@
 
 function mostFrequentCharacter(str) {
     let freq = {}
-    let maxChar = ""
+    let maxChar = null
     let maxCount = 0
 
     for (let char of str) {
