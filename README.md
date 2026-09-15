@@ -12,7 +12,7 @@ A personal log of my daily coding progress. Updated automatically!
 | 4 | Most Frequent Character | Easy | [Code](./mostFrequentCharacter.js) | Frequency Counter, String |
 | 5 | Move Zeros | Easy | [Code](./moveZeros.js) | Array |
 | 6 | Remove Duplicates | Easy | [Code](./removeDuplicates.js) | Frequency Counter, Array |
-| 7 | secondLargest | Unknown | [Code](./secondLargest.js) | None |
+| 7 | Second Largest Element | Easy | [Code](./secondLargest.js) | Array, Sorting |
 | 8 | Two Sum | Easy | [Code](./twoSum.js) | Array, Hash Map |
 | 9 | Valid Anagram | Easy | [Code](./validAnagram.js) | Frequency Counter, String |
 
