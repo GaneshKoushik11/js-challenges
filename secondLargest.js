@@ -1,3 +1,7 @@
+// Title: Second Largest Element
+// Difficulty: Easy
+// Tags: Array, Sorting
+
 function secondLargest(numbers) {
     let largest = -Infinity
     let second = - Infinity
