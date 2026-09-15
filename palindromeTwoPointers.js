@@ -1,3 +1,7 @@
+// Title: Valid Palindrome
+// Difficulty: Easy
+// Tags: Two Pointers, String
+
 function isPalindrome(str) {
     let cleaned = str.toLowerCase().replace(/[^a-z0-9]/g, "")
 
